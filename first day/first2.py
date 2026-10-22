@@ -1,6 +1,6 @@
-name = "Inayat"
-age = 24
-makes = 85.65
+name = "hussain" #string
+age = 24        #int
+makes = 85.65   #float
 
 print("my name is :", name)
 print("my age is:", age)
